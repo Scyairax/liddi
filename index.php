@@ -41,32 +41,24 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12" id="first_carosel">
-            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel1">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" id="item-c" src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-    <h5>sa sa sa</h5>
-    <p>prova</p>
+    
   </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" id="item-c" src="http://www.meteoweb.eu/wp-content/uploads/2017/02/pesce-640x447.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
-    <h5>sa sa sa</h5>
-    <p>prova</p>
+   
   </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" id="item-c" src="http://2.citynews-trevisotoday.stgy.ovh/~media/original-hi/38318609774681/pizza-3-2.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
-    <h5>sa sa sa</h5>
-    <p>prova</p>
+   
   </div>
     </div>
   </div>
@@ -82,34 +74,25 @@
             </div>
         </div>
         <div class="row">
-             <div class="col-md-12" id="first_carosel">
-
-             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
+             <div class="col-md-12" id="first_carosel2">
+             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel2">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 img-responsive" id="item-c" src="https://www.foodweb.it/wp-content/uploads/2018/10/salumi-ivsi-manifesto-made-in-italy-valori.jpg" alt="First slide">
+      <img class="d-block w-100" id="item-c" src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-    <h5>sa sa sa</h5>
-    <p>prova</p>
+    
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 img-responsive" id="item-c" src="https://www.delbenechiropratica.it/wp-content/uploads/2016/06/77f8f52f-30de-468d-81ac-64dbb57d911f-1400x933.jpg" alt="Second slide">
+      <img class="d-block w-100" id="item-c" src="http://www.meteoweb.eu/wp-content/uploads/2017/02/pesce-640x447.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
-    <h5>sa sa sa</h5>
-    <p>prova</p>
+   
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 img-responsive" id="item-c" src="http://www.cucinarecarne.it/wp-content/uploads/2013/04/bistecca-alla-fiorentina-575x262.jpg" alt="Third slide">
+      <img class="d-block w-100" id="item-c" src="http://2.citynews-trevisotoday.stgy.ovh/~media/original-hi/38318609774681/pizza-3-2.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
-    <h5>sa sa sa</h5>
-    <p>prova</p>
+   
   </div>
     </div>
   </div>
