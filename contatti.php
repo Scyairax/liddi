@@ -136,35 +136,6 @@
 
         <hr>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         <div class="row form-group" id="footer">
             <div class="col-md-4 col-xs-4" > 
             <h3 class="footer">Liddi&Co s.r.l.</h3>
