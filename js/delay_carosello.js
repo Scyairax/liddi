@@ -1,6 +1,6 @@
 $('.delay1').carousel({
-    interval: 1800
+    interval: 2800
     })
 $('.delay2').carousel({
-        interval: 3000
+        interval: 3800
         })
