@@ -1,7 +1,14 @@
-#first_carosel {
-   height: 310px;
-  
-  }
+
+#name_agency{
+   font-size:px;
+   font-style: serif;
+}
+#item-c{
+   min-height: 100px;
+   max-height: 370px;
+   height:auto;
+   width: 100%;
+}
 
  #navbar {
     background-color: #FFA100;
