@@ -26,22 +26,22 @@
     <ul class="navbar-nav mr-auto">
 
       <li class="nav-item active">
-        <a class="nav-link" href="#">| <i class="fas fa-apple-alt"></i>  Chi siamo |<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.php">| <i class="fas fa-apple-alt"></i>  Chi siamo |<span class="sr-only">(current)</span></a>
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="#">| <i class="fas fa-hamburger"></i> I Nostri Partner |</a>
+        <a class="nav-link" href="partner.php">| <i class="fas fa-hamburger"></i> I Nostri Partner |</a>
       </li>
 
-      <li class="nav-item">
-        <a class="nav-link" href="#">| <i class="fas fa-utensils"></i> Contattaci |</a>
+      <li class="nav-item  ">
+        <a class="nav-link" href="contatti.php">| <i class="fas fa-utensils"></i> Contattaci |</a>
       </li>
 
     </ul>
     <img src="https://via.placeholder.com/300X80/FF0000/FFFFFF?Text=Down.com" class="rounded float-right" id="name_agency" alt="Responsive image">
 </nav>
 <!---                                 --->
-    
+    <div class="container">
         <div class="row">
             <div class="col-md-12">
             <div id="carouselExampleIndicators" class="delay1 carousel slide" data-ride="carousel">
@@ -124,8 +124,8 @@
              <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Login</button>
             </form>
             </div>
-
-            
+      </div><!--  chiude il div container -->
+    <div>        
            
            
            
