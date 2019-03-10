@@ -4,7 +4,6 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="includes/bootstrap/dist/css/bootstrap.min.css">
     <!--- mio css--->
@@ -30,90 +29,39 @@
       <li class="nav-item">
         <a class="nav-link" href="#">Contattaci</a>
       </li>
-
-      
-
     </ul>
-
   </div>
 </nav>
-<!---                                 --->
+<!---         end nav                        --->
     <div class="container">
         <div class="row">
-            <div class="col-md-12" id="first_carosel">
-            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel1">
+        <div class="carousel slide carosello1" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" id="item-c" src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
-    
-  </div>
+      <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(35).jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" id="item-c" src="http://www.meteoweb.eu/wp-content/uploads/2017/02/pesce-640x447.jpg" alt="Second slide">
-      <div class="carousel-caption d-none d-md-block">
-   
-  </div>
+      <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(33).jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" id="item-c" src="http://2.citynews-trevisotoday.stgy.ovh/~media/original-hi/38318609774681/pizza-3-2.jpg" alt="Third slide">
-      <div class="carousel-caption d-none d-md-block">
-   
-  </div>
+      <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(31).jpg">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
 </div>
-            </div>
-        </div>
-        <div class="row">
-             <div class="col-md-12" id="first_carosel2">
-             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel2">
+
+<div class="carousel slide carosello2" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" id="item-c" src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
-    
-  </div>
+      <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(35).jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" id="item-c" src="http://www.meteoweb.eu/wp-content/uploads/2017/02/pesce-640x447.jpg" alt="Second slide">
-      <div class="carousel-caption d-none d-md-block">
-   
-  </div>
+      <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(33).jpg">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" id="item-c" src="http://2.citynews-trevisotoday.stgy.ovh/~media/original-hi/38318609774681/pizza-3-2.jpg" alt="Third slide">
-      <div class="carousel-caption d-none d-md-block">
-   
-  </div>
+      <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(31).jpg">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
 </div>
-            </div>
-        </div>   
-    </div>
-        <div class="row" id="footer">
-            <div class="col-md-12"> ciao io sono il tuo footer
-            <form class="form-inline my-2 my-lg-0">
-             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Login</button>
-            </form>
-            </div>
         </div>
 
    
@@ -122,5 +70,17 @@
     <script src="includes/jquery/dist/jquery.slim.min.js"></script>
     <script src="includes/popper.js/dist/popper.min.js"></script>
     <script src="includes/bootstrap/dist/js/bootstrap.min.js"></script>
-  </body>
+  <script type="text/javascript">
+$(document).ready(function () {
+    $('.carosello1').carousel({
+        interval: 2000
+    });
+    $(document).ready(function () {
+    $('.carosello2').carousel({
+        interval: 1500
+    });
+
+  
+</script>   
+</body>
 </html>
