@@ -12,6 +12,10 @@
    width: 100%;
 }
 
+div#footer{
+   border-radius: 10px 10px 0px 0px;
+}
+
 .footer{
    margin-top: 10px;
    margin-bottom: 0px;
@@ -24,6 +28,7 @@ h3.footer{
    font-style: serif;
    
 }
+
 
 p.footer{
    padding:0px;

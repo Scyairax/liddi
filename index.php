@@ -41,91 +41,88 @@
     <img src="https://via.placeholder.com/300X80/FF0000/FFFFFF?Text=Down.com" class="rounded float-right" id="name_agency" alt="Responsive image">
 </nav>
 <!---                                 --->
-    <div class="container">
-        <div class="row">
+  <div class="container">
+
+    <div class="row">
             <div class="col-md-12">
-            <div id="carouselExampleIndicators" class="delay1 carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100 img-responsive" id="item-c" src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" alt="Responsive image">
-      <div class="carousel-caption d-none d-md-block">
-    
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100 img-responsive" id="item-c" src="http://www.meteoweb.eu/wp-content/uploads/2017/02/pesce-640x447.jpg" alt="Responsive image">
-      <div class="carousel-caption d-none d-md-block">
-   
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100 img-responsive" id="item-c" src="http://2.citynews-trevisotoday.stgy.ovh/~media/original-hi/38318609774681/pizza-3-2.jpg" alt="Responsive image">
-      <div class="carousel-caption d-none d-md-block">
-   
-  </div>
-    </div>
-  </div>
-</div>
+              <div id="carouselExampleIndicators" class="delay1 carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img class="d-block w-100 img-responsive" id="item-c" src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" alt="Responsive image">
+                  <div class="carousel-caption d-none d-md-block">
+               </div>
+              </div>
+            <div class="carousel-item">
+             <img class="d-block w-100 img-responsive" id="item-c" src="http://www.meteoweb.eu/wp-content/uploads/2017/02/pesce-640x447.jpg" alt="Responsive image">
+              <div class="carousel-caption d-none d-md-block">
             </div>
+          </div>
+            <div class="carousel-item">
+              <img class="d-block w-100 img-responsive" id="item-c" src="http://2.citynews-trevisotoday.stgy.ovh/~media/original-hi/38318609774681/pizza-3-2.jpg" alt="Responsive image">
+                <div class="carousel-caption d-none d-md-block"> 
+               </div>
+              </div>
+            </div>
+          </div>
+          </div>
         </div>
-        <div class="row">
-             <div class="col-md-12">
+
+          <div class="row">
+            <div class="col-md-12">
              <div id="carouselExampleIndicators" class="delay2 carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100 img-responsive" id="item-c" src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" alt="Responsive image">
-      <div class="carousel-caption d-none d-md-block">
-    
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100 img-responsive" id="item-c" src="http://www.meteoweb.eu/wp-content/uploads/2017/02/pesce-640x447.jpg" alt="Responsive image">
-      <div class="carousel-caption d-none d-md-block">
-   
-  </div>
-    </div>
-    <div class="carousel-item">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                 <img class="d-block w-100 img-responsive" id="item-c" src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" alt="Responsive image">
+                  <div class="carousel-caption d-none d-md-block">  
+                </div>
+              </div>
+            <div class="carousel-item">
+           <img class="d-block w-100 img-responsive" id="item-c" src="http://www.meteoweb.eu/wp-content/uploads/2017/02/pesce-640x447.jpg" alt="Responsive image">
+          <div class="carousel-caption d-none d-md-block">
+        </div>
+       </div>
+     <div class="carousel-item">
       <img class="d-block w-100 img-responsive" id="item-c" src="http://2.citynews-trevisotoday.stgy.ovh/~media/original-hi/38318609774681/pizza-3-2.jpg" alt="Responsive image">
-      <div class="carousel-caption d-none d-md-block">
-  </div>
-    </div>
-  </div>
-</div>
-            </div>
+        <div class="carousel-caption d-none d-md-block">
+        </div>
+         </div>
+          </div>
+        </div>
+      </div>
         </div>   
-    </div>
-        <div class="row form-group" id="footer">
+    
 
-            <div class="col-md-4 col-xs-4" > 
-            <h3 class="footer">Liddi&Co s.r.l.</h3>
-            <hr>
-            <p class="footer"> Via Farcito 65, Baretto  </p>
-            <p class="footer">  Centro dir. Milanofsdiori, Pucci (MO) </p>
-            <p class="footer">  P.IVA: 0273xxxx0363 </p>
-            </div>
-             
-            <div class="col-md-4 col-xs-4" > 
-            <h3 class="footer">Quick Links</h3>
-            <hr>
-            <p class="footer">Chi Siamo</p>
-            <p class="footer">I nostri Partner</p>
-            <p class="footer">Come Trovarci</p>
-            </div>
-
-            <div class="col-md-4 col-xs-4" > 
-            <h3 class="footer">Sei un Fornitore?</h3>
-            <hr>
-            <p class="footer">Vorresti ricevere maggiori informazioni su di noi?</p>
-            <p class="footer"><a href="#">Contattaci<a></p> 
-            <p class="footer">Telefono : 0985214663</p>
-            <p class="footer">Fax : 4521589631</p>
-            <p class="footer">Email: afd@dfsdfsdf.comi</p>
-            <form class="float-right form-inline my-2 my-lg-0">
-             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Login</button>
-            </form>
-            </div>
-      </div><!--  chiude il div container -->
-    <div>        
+        <hr>
+       
+          <div class="row form-group" id="footer">
+             <div class="col-md-4 col-xs-4" > 
+                 <h3 class="footer">Liddi&Co s.r.l.</h3>
+                 <hr>
+                <p class="footer"> Via Farcito 65, Baretto  </p>
+                <p class="footer">  Centro dir. Milanofsdiori, Pucci (MO) </p>
+                <p class="footer">  P.IVA: 0273xxxx0363 </p>
+             </div>
+              <div class="col-md-4 col-xs-4" > 
+                <h3 class="footer">Quick Links</h3>
+                <hr>
+                 <p class="footer">Chi Siamo</p>
+                 <p class="footer">I nostri Partner</p>
+                 <p class="footer">Come Trovarci</p>
+              </div>
+              <div class="col-md-4 col-xs-4" > 
+                 <h3 class="footer">Sei un Fornitore?</h3>
+                 <hr>
+                 <p class="footer">Vorresti ricevere maggiori informazioni su di noi?</p>
+                 <p class="footer"><a href="#">Contattaci<a></p> 
+                 <p class="footer">Telefono : 0985214663</p>
+                 <p class="footer">Fax : 4521589631</p>
+                 <p class="footer">Email: afd@dfsdfsdf.comi</p>
+                  <form class="float-right form-inline my-2 my-lg-0">
+                   <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Login</button>
+                 </form>
+              </div>
+            </div><!--  chiude il footer -->
+</div>        
            
            
            
