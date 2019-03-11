@@ -38,7 +38,7 @@
       </li>
 
     </ul>
-    <img src="https://via.placeholder.com/300X80/FF0000/FFFFFF?Text=Down.com" class="rounded float-right" id="name_agency" alt="Responsive image">
+    <img src="https://via.placeholder.com/250X80/FF0000/FFFFFF?Text=Down.com" class="rounded float-right" id="name_agency" alt="Responsive image">
 </nav>
 <!---                                 --->
   <div class="container">
