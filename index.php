@@ -25,17 +25,19 @@
     <!---   container   --->
     <div class="container">
         <hr>
-        <div class="row">
-            <div class="col-md-12">
-                <?php include "components/carosello.php" ?>
+        <div class="content">
+            <div class="row">
+                <div class="col-md-12">
+                    <?php include "components/carosello.php" ?>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <?php include "components/carosello.php" ?>
+                </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-12">
-                <?php include "components/carosello.php" ?>
-            </div>
-        </div>
-        <!---   end container   --->
+        <!---   end content   --->
         <hr>
         <!---   footer   --->
         <?php include_once "components/footer.php" ?>

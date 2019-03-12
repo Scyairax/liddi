@@ -28,133 +28,133 @@
     <!---   container   --->
     <div class="container">
         <hr>
+        <div class="content">
+            <!-- BREADCRUMBS -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header">I Nostri Partner
 
-        <!-- BREADCRUMBS -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h1 class="page-header">I Nostri Partner
+                    </h1>
+                    <ol class="breadcrumb">
+                        <li><a href="index.html">Home\ </a></li>
+                        <li class="active">Partner</li>
+                    </ol>
+                </div>
+            </div>
 
-                </h1>
-                <ol class="breadcrumb">
-                    <li><a href="index.html">Home\ </a></li>
-                    <li class="active">Partner</li>
-                </ol>
+            <!-- Projects Row -->
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
+                        <div class="card-body">
+                            <h3>Pappa reale</h3>
+                            <p class="card-text">Some quick example text to build on
+                                the card title and make up the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
+                        <div class="card-body">
+                            <h3>Pappa reale</h3>
+                            <p class="card-text">Some quick example text to build on
+                                the card title and make up the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
+                        <div class="card-body">
+                            <h3>Pappa reale</h3>
+                            <p class="card-text">Some quick example text to build on
+                                the card title and make up the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
+                        <div class="card-body">
+                            <h3>Pappa reale</h3>
+                            <p class="card-text">Some quick example text to build on
+                                the card title and make up the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
+                        <div class="card-body">
+                            <h3>Pappa reale</h3>
+                            <p class="card-text">Some quick example text to build on
+                                the card title and make up the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
+                        <div class="card-body">
+                            <h3>Pappa reale</h3>
+                            <p class="card-text">Some quick example text to build on
+                                the card title and make up the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
+                        <div class="card-body">
+                            <h3>Pappa reale</h3>
+                            <p class="card-text">Some quick example text to build on
+                                the card title and make up the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
+                        <div class="card-body">
+                            <h3>Pappa reale</h3>
+                            <p class="card-text">Some quick example text to build on
+                                the card title and make up the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
+                        <div class="card-body">
+                            <h3>Pappa reale</h3>
+                            <p class="card-text">Some quick example text to build on
+                                the card title and make up the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-
-        <!-- Projects Row -->
-
-        <div class="row">
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
-                    <div class="card-body">
-                        <h3>Pappa reale</h3>
-                        <p class="card-text">Some quick example text to build on
-                            the card title and make up the bulk of the card's content.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
-                    <div class="card-body">
-                        <h3>Pappa reale</h3>
-                        <p class="card-text">Some quick example text to build on
-                            the card title and make up the bulk of the card's content.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
-                    <div class="card-body">
-                        <h3>Pappa reale</h3>
-                        <p class="card-text">Some quick example text to build on
-                            the card title and make up the bulk of the card's content.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
-                    <div class="card-body">
-                        <h3>Pappa reale</h3>
-                        <p class="card-text">Some quick example text to build on
-                            the card title and make up the bulk of the card's content.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
-                    <div class="card-body">
-                        <h3>Pappa reale</h3>
-                        <p class="card-text">Some quick example text to build on
-                            the card title and make up the bulk of the card's content.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
-                    <div class="card-body">
-                        <h3>Pappa reale</h3>
-                        <p class="card-text">Some quick example text to build on
-                            the card title and make up the bulk of the card's content.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
-                    <div class="card-body">
-                        <h3>Pappa reale</h3>
-                        <p class="card-text">Some quick example text to build on
-                            the card title and make up the bulk of the card's content.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
-                    <div class="card-body">
-                        <h3>Pappa reale</h3>
-                        <p class="card-text">Some quick example text to build on
-                            the card title and make up the bulk of the card's content.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="http://www.italiafruit.net/Public/Upload/News/Images/46587/frutta-verdura-4.jpg" class="card-img-top  img-responsive" alt="...">
-                    <div class="card-body">
-                        <h3>Pappa reale</h3>
-                        <p class="card-text">Some quick example text to build on
-                            the card title and make up the bulk of the card's content.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
         <hr>
 
         <?php include_once "components/footer.php" ?>
 
-        </div>
+    </div>
 
 
 

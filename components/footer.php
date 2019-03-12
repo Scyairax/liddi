@@ -1,7 +1,8 @@
 <?php 
+include_once "components/logo.php";
 echo '<div class="row form-group" id="footer">
             <div class="col-md-4 col-xs-4">
-                <h3 class="footer">Liddi&Co s.r.l.</h3>
+                <h3 class="footer">'.$logo.'</h3>
                 <hr>
                 <p class="footer"> Via Farcito 65, Baretto </p>
                 <p class="footer"> Centro dir. Milanofsdiori, Pucci (MO) </p>
@@ -15,9 +16,9 @@ echo '<div class="row form-group" id="footer">
                 <p class="footer">Come Trovarci</p>
             </div>
             <div class="col-md-4 col-xs-4">
-                <h3 class="footer">Sei un Fornitore?</h3>
+                <h3 class="footer">Sei un Inventore ??</h3>
                 <hr>
-                <p class="footer">Vorresti ricevere maggiori informazioni su di noi?</p>
+                <p class="footer">Partecipa anche tu al sito !</p>
                 <p class="footer"><a href="#">Contattaci<a></p>
                 <p class="footer">Telefono : 0985214663</p>
                 <p class="footer">Fax : 4521589631</p>

@@ -28,96 +28,96 @@
     <!---   container   --->
     <div class="container">
         <hr>
+        <div class="content">
 
-        <!-- BREADCRUMBS -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h1 class="page-header">Come trovarci
+            <!-- BREADCRUMBS -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header">Come trovarci
 
-                </h1>
-                <ol class="breadcrumb">
-                    <li><a href="index.html">Home\ </a></li>
-                    <li class="active"> Contatti</li>
-                </ol>
-            </div>
-        </div>
-
-        <!-- PRIMA RIGA -->
-        <div class="row">
-            <!-- MAPPA -->
-            <div class="col-md-8">
-                <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
-            </div>
-            <!-- CONTATTI -->
-            <div class="col-md-4">
-                <h3>La nostra Sede</h3>
-                <p>3481 Melrose Place<br>Beverly Hills, CA 90210<br></p>
-                <hr>
-                <p>
-                    <i class="fa fa-phone"></i>(123) 456-7890
-                </p>
-                <p>
-                    <i class="far fa-envelope-open"></i>Email <a href="mailto:name@example.com">name@example.com</a>
-                </p>
-                <p>
-                    <i class="fa fa-clock-o"></i><abbr title="Hours">orario di lavoro</abbr>: lunedi - venerdi: 9:00 - 17:00 <br> sabato : 10:00 - 12:00
-                </p>
-                <h3>Seguici su</h3>
-                <ul class="list-unstyled inline">
-                    <li class="list-inline-item">
-                        <a href="#"><i class="fab fa-facebook-square fa-2x"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="#"><i class="fab fa-linkedin fa-2x"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="#"><i class="fab fa-twitter-square fa-2x"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="#"><i class="fab fa-instagram fa-2x"></i></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-
-        <!-- FORM -->
-        <div class="row">
-            <div class="col-md-8">
-                <h3>Lascia un messaggio, ti ricontatteremo !</h3>
-                <form name="sentMessage" id="contactForm" novalidate>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Nome&Cognome:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
-                            <p class="help-block"></p>
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Telefono:</label>
-                            <input type="tel" class="form-control" id="phone" required data-validation-required-message="Please enter your phone number.">
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Email:</label>
-                            <input type="email" class="form-control" id="email" required data-validation-required-message="Please enter your email address.">
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Message:</label>
-                            <textarea rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
-                        </div>
-                    </div>
-                    <div id="success"></div>
-                    <button onclick="myFunction()" class="btn btn-primary">Invia</button>
-                    <p id="check"></p>
-                </form>
+                    </h1>
+                    <ol class="breadcrumb">
+                        <li><a href="index.html">Home\ </a></li>
+                        <li class="active"> Contatti</li>
+                    </ol>
+                </div>
             </div>
 
-        </div>
+            <!-- PRIMA RIGA -->
+            <div class="row">
+                <!-- MAPPA -->
+                <div class="col-md-8">
+                    <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+                </div>
+                <!-- CONTATTI -->
+                <div class="col-md-4">
+                    <h3>La nostra Sede</h3>
+                    <p>3481 Melrose Place<br>Beverly Hills, CA 90210<br></p>
+                    <hr>
+                    <p>
+                        <i class="fa fa-phone"></i>(123) 456-7890
+                    </p>
+                    <p>
+                        <i class="far fa-envelope-open"></i>Email <a href="mailto:name@example.com">name@example.com</a>
+                    </p>
+                    <p>
+                        <i class="fa fa-clock-o"></i><abbr title="Hours">orario di lavoro</abbr>: lunedi - venerdi: 9:00 - 17:00 <br> sabato : 10:00 - 12:00
+                    </p>
+                    <h3>Seguici su</h3>
+                    <ul class="list-unstyled inline">
+                        <li class="list-inline-item">
+                            <a href="#"><i class="fab fa-facebook-square fa-2x"></i></a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#"><i class="fab fa-linkedin fa-2x"></i></a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#"><i class="fab fa-twitter-square fa-2x"></i></a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#"><i class="fab fa-instagram fa-2x"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
 
+            <!-- FORM -->
+            <div class="row">
+                <div class="col-md-8">
+                    <h3>Lascia un messaggio, ti ricontatteremo !</h3>
+                    <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="control-group form-group">
+                            <div class="controls">
+                                <label>Nome&Cognome:</label>
+                                <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                                <p class="help-block"></p>
+                            </div>
+                        </div>
+                        <div class="control-group form-group">
+                            <div class="controls">
+                                <label>Telefono:</label>
+                                <input type="tel" class="form-control" id="phone" required data-validation-required-message="Please enter your phone number.">
+                            </div>
+                        </div>
+                        <div class="control-group form-group">
+                            <div class="controls">
+                                <label>Email:</label>
+                                <input type="email" class="form-control" id="email" required data-validation-required-message="Please enter your email address.">
+                            </div>
+                        </div>
+                        <div class="control-group form-group">
+                            <div class="controls">
+                                <label>Message:</label>
+                                <textarea rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
+                            </div>
+                        </div>
+                        <div id="success"></div>
+                        <button onclick="myFunction()" class="btn btn-primary">Invia</button>
+                        <p id="check"></p>
+                    </form>
+                </div>
+            </div>
+        </div> <!-- end content -->
         <hr>
 
         <?php include_once "components/footer.php" ?>
